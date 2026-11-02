@@ -1,0 +1,7 @@
+*.tsbuildinfo
+.api-aside
+.next
+data
+next-env.d.ts
+node_modules
+out
